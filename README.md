@@ -1,43 +1,47 @@
-# Ertuğrul Abacı - Unleashing Tech Brilliance 🚀
+# Ertuğrul Abacı - Navigating the Tech Universe 🌟
 
-## 🖥️ Software Engineer | 🌐 Tech Visionary | 📈 Strategic Innovator
+## 🚀 Software Engineer | 💡 Tech Innovator | 📊 Strategic Thinker
+
+![Profile views](https://gpvc.arturio.dev/eabaci42)  <!-- Profil ziyaretçi sayacı -->
 
 ---
 
-### 🌌 Journey Through the Tech Universe 🌌
-Embarking on a tech adventure since 2019, Ertuğrul has carved a niche in cybersecurity and technology. At 42 Istanbul, he's refined his mastery in C, Arduino, microprocessors, and IoT, steering towards the exciting realms of data science and machine learning.
+### 🌌 About Me
+Embarking on an epic journey through the realms of technology and cybersecurity since 2019, I've been honing my skills at 42 Istanbul. My toolset includes C, Arduino, microprocessors, and IoT, with an evolving focus on data science and machine learning.
 
-### 🔍 Analyzing Ertuğrul's Tech Arsenal
-- **Network Genius:** Mastery in Cisco Networking and Administration
-- **Code Craftsman:** Proficient in C, Python, and diverse languages
-- **Tech Innovator:** Arduino, Microprocessors, IoT
-- **Domain Expert:** Data Science, Machine Learning, Cybersecurity
+### 🛠️ Technical Toolbox
+- **Networking:** Mastery in Cisco Networking, Network Administration
+- **Programming:** Proficient in C, Python, and exploring new languages
+- **Technologies:** Skilled in Arduino, Microprocessors, IoT
+- **Domains:** Passionate about Data Science, Machine Learning, Cybersecurity
 
-### 🏅 Achievements & Contributions
+### 🏆 My GitHub Stats
+![Ertuğrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=eabaci42&show_icons=true)
+
+### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eabaci42)
 
-### 📊 Proficiency & Engagement
-- **Most Used Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eabaci42&layout=compact)
-- **GitHub Activity Graph:** ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eabaci42)
+### 📊 Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eabaci42&layout=compact)
 
-### 🌟 Highlight Projects & Impact
-- **Python Mastery:** [Python Programming](https://github.com/eabaci42/Python-Programming.git)
-- **42Cursus Pioneer:** [42Cursus](https://github.com/eabaci42/42Cursus.git)
-- **C Enthusiast:** [C Piscine](https://github.com/eabaci42/C-Piscine.git)
-- **IoT Innovator:** [32AUS](https://github.com/eabaci42/32AUS.git)
+### 🌟 Highlight Projects
+- [Python Programming](https://github.com/eabaci42/Python-Programming.git)
+- [42Cursus](https://github.com/eabaci42/42Cursus.git)
+- [C Piscine](https://github.com/eabaci42/C-Piscine.git)
+- [32AUS](https://github.com/eabaci42/32AUS.git)
 
-### 🌍 Beyond the Code
-Chess Strategist 🤯 | Culinary Explorer 🍳 | Merging Creativity & Technology.
+### 🌍 Life Beyond Code
+Chess Enthusiast 🤯 | Culinary Explorer 🍳 | Merging Creativity with Technology
 
-### 🎓 Educational Path & Experiences
-- **42 Istanbul:** Computer Software Engineering Wizard (2022-2023)
-- **Bilecik Şeyh Edebali University:** Computer Engineering Sage (2019-2024)
-- **Real-World Experience:** Tech Intern, Digital Craftsman
+### 🎓 Education & Experience
+- **42 Istanbul:** Computer Software Engineering (2022-2023)
+- **Bilecik Şeyh Edebali University:** Computer Engineering (2019-2024)
+- **Experience:** Intern at Bilecik University Computer Lab, Tailor Apprentice at Gülhan Çeyiz
 
-### 🤝 Connect with Ertuğrul
+### 🤝 Let's Connect
 - 📧 [Email](mailto:ertugrul@atikrost.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eabaci42)
-- 🌐 [GitHub Journey](https://github.com/eabaci42)
+- 🌐 [GitHub](https://github.com/eabaci42)
 
 ---
 
