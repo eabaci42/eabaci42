@@ -17,9 +17,7 @@ Embarking on a tech adventure since 2019, Ertuğrul has carved a niche in cybers
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eabaci42)
 
 ### 📊 Proficiency & Engagement
-- **Most Used Languages:** 
-![Top Languages]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=eabaci42&layout=compact)
+- **Most Used Languages:** \n![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eabaci42&layout=compact)
 - **GitHub Activity Graph:** ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eabaci42)
 
 ### 🌟 Highlight Projects & Impact
