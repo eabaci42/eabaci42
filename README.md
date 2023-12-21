@@ -1,39 +1,37 @@
-# Hello, I'm Ertuğrul Abacı 👋
-## Computer & Software Engineer | Tech Enthusiast | Strategic Thinker
+# Ertuğrul Abacı - Tech Maestro 🌟
+
+## Software Engineer | Tech Visionary | Strategic Innovator
 
 ---
 
-Welcome to my tech universe! Since 2019, I've been on a thrilling journey in the world of cybersecurity and technology, fueled by a passion for continuous learning and innovation. At 42 Istanbul, I've sharpened my skills in C programming, Arduino, microprocessors, and IoT, and now, I'm venturing into the realms of data science and machine learning.
+### 🌌 Welcome to My Universe of Innovation 🌌
+Since 2019, I've embarked on an exhilarating journey through the realms of cybersecurity and tech innovation. My voyage at 42 Istanbul equipped me with the tools of C, Arduino, microprocessors, and IoT. Now, charting new territories in data science and machine learning.
 
-## Skills and Expertise
+### 🚀 My Tech Arsenal
 - **Networking:** Cisco Networking, Network Administration
-- **Programming:** Proficient in C, Exploring Python and other languages
+- **Programming:** C, Python, and more
 - **Technologies:** Arduino, Microprocessors, IoT
-- **Focus Areas:** Data Science, Machine Learning, Cybersecurity
+- **Domains:** Data Science, Machine Learning, Cybersecurity
 
+### 🏆 Achievements & Badges
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eabaci42)
 ![Cisco Badge](URL_to_Cisco_Badge) ![C Programming Badge](URL_to_C_Badge)
 
-## Key Projects and Achievements
-- [Python Programming Repository](https://github.com/eabaci42/Python-Programming.git)
-- [42Cursus Repository](https://github.com/eabaci42/42Cursus.git)
-- [C Piscine Repository](https://github.com/eabaci42/C-Piscine.git)
-- [32AUS Repository](https://github.com/eabaci42/32AUS.git)
+### 🌟 Highlight Projects
+- [Python Programming](https://github.com/eabaci42/Python-Programming.git)
+- [42Cursus](https://github.com/eabaci42/42Cursus.git)
+- [C Piscine](https://github.com/eabaci42/C-Piscine.git)
+- [32AUS](https://github.com/eabaci42/32AUS.git)
 
-**Honors:** High School Chess Champion
-**Certifications:** ITU Entrepreneurship/Startup Summit Participation
+### 🌍 Beyond Coding
+Chess Enthusiast 🤯 | Culinary Adventurer 🍳 | Merging creativity with tech.
 
-## Beyond the Code
-Chess mastermind 🤯 | Culinary explorer 🍳 | Passionate about harnessing creativity and strategic thinking in technology.
+### 🎓 Education & Experience
+- **42 Istanbul:** Licentiate in Computer Software Engineering (2022-2023)
+- **Bilecik Şeyh Edebali University:** Licentiate in Computer Engineering (2019-2024)
+- **Experiences:** Intern at Bilecik University Computer Lab, Apprentice at Gülhan Çeyiz
 
-## Education & Professional Experience
-- **42 Istanbul:** Licentiate degree in Computer Software Engineering (2022-2023)
-- **Bilecik Şeyh Edebali University:** Licentiate degree in Computer Engineering (2019-2024)
-- **Experience:** Internship at Bilecik University Computer Lab, Tailor Apprentice at Gülhan Çeyiz
-
-![Education Badge](URL_to_Education_Badge)
-
-## Let's Connect!
-Feel free to reach out for collaborations or tech discussions. I'm always open to new challenges and opportunities.
+### 🤝 Let's Connect
 - 📧 [Email](mailto:ertugrul@atikrost.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eabaci42)
 - 🌐 [GitHub](https://github.com/eabaci42)
@@ -41,17 +39,3 @@ Feel free to reach out for collaborations or tech discussions. I'm always open t
 ---
 
 ⚡ "Innovating, learning, and growing every day in the world of technology."
-<!--
-**eabaci42/eabaci42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
