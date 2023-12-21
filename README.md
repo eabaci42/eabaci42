@@ -2,8 +2,6 @@
 
 ## 🖥️ Visionary Software Engineer | 💡 Creative Tech Explorer | 🌐 Strategic Innovator
 
-![](https://komarev.com/ghpvc/?username=eabaci) <!-- Profil ziyaretçi sayacı -->
-
 ---
 
 ### 🌌 Tech Odyssey Beyond the Horizon 🌌
@@ -43,6 +41,7 @@ Welcome to my universe! Since 2019, my journey in cybersecurity and technology h
 - 💼 [LinkedIn Portal](https://www.linkedin.com/in/eabaci42)
 - 🌐 [GitHub Galaxy](https://github.com/eabaci42)
 
+![](https://komarev.com/ghpvc/?username=eabaci) <!-- Profil ziyaretçi sayacı -->
 ---
 
 ⚡ "Charting unexplored territories in technology, one innovation at a time."
