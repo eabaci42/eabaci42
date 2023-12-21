@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | 💡 Tech Innovator | 📊 Strategic Thinker
 
-![Profile views](https://gpvc.arturio.dev/eabaci42)  <!-- Profil ziyaretçi sayacı -->
+![](https://komarev.com/ghpvc/?username=eabaci)  <!-- Profil ziyaretçi sayacı -->
 
 ---
 
