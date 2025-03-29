@@ -113,7 +113,11 @@
   <tr>
     <td width="50%" align="center">
       <h3>📝 Sistem Tasarım Felsefem</h3>
-      <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eabaci42/eabaci42/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eabaci42/eabaci42/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eabaci42/eabaci42/output/github-contribution-grid-snake.svg">
+      </picture>
       <p><b>"Karmaşıklık değil, sadeliğe giden yol daha değerlidir."</b></p>
       <p>Sistem tasarımlarımda her zaman yalın, bakımı kolay ve güçlü çözümler üretmeye odaklanırım. Gereksiz karmaşıklığı elimine ederek, sürdürülebilir altyapılar kurarım.</p>
     </td>
