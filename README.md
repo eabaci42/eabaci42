@@ -1,6 +1,10 @@
 # <div align="center">👨‍💻 Ertuğrul Abacı</div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=150&section=header&text=Ertuğrul%20Abacı&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Ertuğrul Abacı" />
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0891b2&center=true&vCenter=true&width=435&lines=Bilgisayar+Mühendisi;BT+Yöneticisi;Linux+Tutkunu;Sistem+Kurucusu" alt="Typing SVG" />
 </div>
 
@@ -13,7 +17,7 @@
 
 ## 🛠️ Yolculuğum
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 - 🎓 **Bilgisayar Mühendisi** - Sistemsel düşünür, çözüm odaklı
 - 💼 **BT Yöneticisi** - Ağ altyapısı, kullanıcı sistemleri ve güvenlikten sorumlu
@@ -29,12 +33,18 @@
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eabaci42&layout=compact&langs_count=7&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight" alt="eabaci42" />
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight" alt="eabaci42" />
+  </a>
 </div>
 
 ## 🚀 Teknolojiler & Araçlar
@@ -87,6 +97,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0891b2&center=true&vCenter=true&width=435&lines=Her+sistemin+bir+mimarı+vardır...;Her+sorunun+bir+çözümü+vardır...;Ben+mimarım%2C+sistemler+benim+eserim..." alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
+</div>
 
 <h3 align="center">🌐 "Sistemleriniz sadece çalışmaz, aynı zamanda sizin için çalışır."</h3>
