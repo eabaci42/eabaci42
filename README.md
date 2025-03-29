@@ -9,6 +9,18 @@
 </p>
 
 <div align="center">
+  <a href="mailto:ertugrul@atikrost.com">
+    <img src="https://img.shields.io/badge/Email-ertugrul@atikrost.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eabaci42">
+    <img src="https://img.shields.io/badge/LinkedIn-eabaci42-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/eabaci42">
+    <img src="https://img.shields.io/badge/GitHub-eabaci42-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/eabaci42">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub İstatistikleri" />
   </a>
@@ -30,10 +42,11 @@
 
 <br/><br/>
 
+## <div align="center">🛠️ Uzmanlık Alanlarım & 🧩 Temel İlkelerim</div>
+
 <table align="center">
   <tr>
     <td>
-      <h3>🛠️ Uzmanlık Alanlarım</h3>
       <ul>
         <li>🎓 <b>Bilgisayar Mühendisi</b> - Sistemsel düşünceye sahip, çözüm odaklı</li>
         <li>💼 <b>BT Yöneticisi</b> - Ağ altyapısı, kullanıcı sistemleri ve güvenlik sorumlusu</li>
@@ -43,7 +56,6 @@
       </ul>
     </td>
     <td>
-      <h3>🧩 Temel İlkelerim</h3>
       <ul>
         <li>🔐 <b>Güvenlik Odaklı</b> - Ağ güvenliği ve sistem yönetiminde uzman</li>
         <li>🛠️ <b>Verimlilik Savunucusu</b> - Sade ve yalın sistemleri tercih eden</li>
@@ -129,20 +141,6 @@
     </td>
   </tr>
 </table>
-
-## <div align="center">📫 İletişim</div>
-
-<div align="center">
-  <a href="mailto:ertugrul@atikrost.com">
-    <img src="https://img.shields.io/badge/Email-ertugrul@atikrost.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eabaci42">
-    <img src="https://img.shields.io/badge/LinkedIn-eabaci42-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/eabaci42">
-    <img src="https://img.shields.io/badge/GitHub-eabaci42-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=150&section=footer&fontSize=30"/>
