@@ -41,8 +41,8 @@
 ## <div align="center">💫 Teknoloji Yolculuğum</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="400" />
 </div>
 
 <table align="center">
@@ -73,36 +73,36 @@
 ## <div align="center">⏳ Kariyer Yolculuğum</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Kariyer Yolculuğum" width="70%" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Kariyer Yolculuğum" width="85%" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eabaci42&theme=tokyonight" alt="Zaman Çizelgesi" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eabaci42&theme=tokyonight" alt="Zaman Çizelgesi" />
 </div>
 
 ## <div align="center">🔥 İstatistikler ve Katkılar</div>
 
 <div align="center">
   <a href="https://github.com/eabaci42">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true" alt="streak stats"/>
+    <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true" alt="streak stats"/>
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/eabaci42">
-    <img src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=nord&margin-w=15&margin-h=15&column=7&no-frame=true" alt="trophy" />
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=nord&margin-w=15&margin-h=15&column=7&no-frame=true" alt="trophy" />
   </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/eabaci42">
-    <img alt="Kullanılan Diller" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="language graph"/>
+    <img width="70%" alt="Kullanılan Diller" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="language graph"/>
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/eabaci42">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=react-dark&hide_border=true" alt="katkı grafiği"/>
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=react-dark&hide_border=true" alt="katkı grafiği"/>
   </a>
 </p>
 
@@ -128,10 +128,10 @@
 
 <div align="center">
   <a href="https://github.com/eabaci42/eabaci42">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
   </a>
   <a href="https://github.com/eabaci42/Python-Programming">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=radical" />
+    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=radical" />
   </a>
 </div>
 
@@ -146,19 +146,19 @@
     <tr>
       <td>
         <a href="https://github.com/eabaci42/eabaci42">
-          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif" alt="GitHub Profil Projesi" width="280" />
+          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif" alt="GitHub Profil Projesi" width="330" />
           <p align="center">GitHub Profil Projesi</p>
         </a>
       </td>
       <td>
         <a href="https://github.com/eabaci42/Python-Programming">
-          <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Python Programlama" width="280" />
+          <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Python Programlama" width="330" />
           <p align="center">Python Programlama</p>
         </a>
       </td>
       <td>
         <a href="#">
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Yeni Proje Yakında" width="280" />
+          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Yeni Proje Yakında" width="330" />
           <p align="center"><b>Yeni Proje Yakında</b></p>
         </a>
       </td>
@@ -171,7 +171,7 @@
 ## <div align="center">📜 Kişisel Manifestom</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250px" alt="Manifesto" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px" alt="Manifesto" />
 </div>
 
 <blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2; margin-top: 20px;">
@@ -205,7 +205,7 @@
 
 <div align="center">
   <a href="https://skyline.github.com/eabaci42/2023" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFkMzllMDFkZjA4M2QyZTkzMzY5MDdhNGI4MzMyODM0YzczNGNiMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GitHub Skyline" width="400"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFkMzllMDFkZjA4M2QyZTkzMzY5MDdhNGI4MzMyODM0YzczNGNiMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GitHub Skyline" width="450"/>
     <br>
     <p>👆 3D GitHub Katkı Grafiğim için Tıklayın (2023)</p>
   </a>
