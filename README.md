@@ -21,6 +21,12 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/followers/eabaci42?label=Takipçiler&style=for-the-badge&color=0891b2" alt="Takipçiler" />
+  <img src="https://komarev.com/ghpvc/?username=eabaci42&color=0891b2&style=for-the-badge&label=Ziyaretçi Sayısı" alt="Ziyaretçi Sayısı" />
+  <img src="https://img.shields.io/github/stars/eabaci42?label=Yıldızlar&style=for-the-badge&color=0891b2" alt="Yıldızlar" />
+</div>
+
+<div align="center">
   <a href="https://github.com/eabaci42">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub İstatistikleri" />
   </a>
@@ -65,6 +71,16 @@
     </td>
   </tr>
 </table>
+
+## <div align="center">⏳ Kariyer Yolculuğum</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eabaci42/eabaci42/main/assets/timeline.png" alt="Kariyer Yolculuğum" width="90%" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-timeline.vercel.app/?username=eabaci42&theme=tokyonight&stroke=0891b2" alt="Zaman Çizelgesi" />
+</div>
 
 ## <div align="center">🔥 İstatistikler ve Katkılar</div>
 
@@ -129,7 +145,53 @@
   </a>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/eabaci42/eabaci42">
+          <img src="https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.gif" alt="Project 1" width="280" />
+          <br>
+          <p align="center">GitHub Profil Projesi</p>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/eabaci42/Python-Programming">
+          <img src="https://miro.medium.com/max/1400/1*RJMxLdTHqVBSijKmOO5MAg.gif" alt="Project 2" width="280" />
+          <br>
+          <p align="center">Python Programlama</p>
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Project 3" width="280" />
+          <br>
+          <p align="center">Yeni Proje Yakında</p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br/>
+
+## <div align="center">📜 Kişisel Manifestom</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px" alt="Manifesto" />
+</div>
+
+<blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2;">
+  <p>💡 <b>"Teknoloji, insanı özgürleştiren bir araçtır, ama yalnızca doğru kullanıldığında."</b></p>
+  <p>Teknoloji dünyasında yolumu çizerken, her zaman şunları aklımda tutarım:</p>
+  <ol>
+    <li>En karmaşık problemler bile, doğru yaklaşımla basitleştirilebilir.</li>
+    <li>Mükemmel sistemler değil, mükemmel şekilde bakılabilir sistemler kurmalıyız.</li>
+    <li>Gerçek güvenlik, paranoya ile değil, sağlam mimari ile inşa edilir.</li>
+    <li>Asla "yeterince iyi" deme; sürekli gelişim, başarının anahtarıdır.</li>
+    <li>Anlaşılır kod, anlaşılmaz dokümanlardan daha değerlidir.</li>
+  </ol>
+</blockquote>
 
 <table align="center">
   <tr>
@@ -147,6 +209,14 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://skyline.github.com/eabaci42/2023" target="_blank">
+    <img src="https://holistic-developer.com/images/skyline.gif" alt="GitHub Skyline" width="400"/>
+    <br>
+    <p>👆 3D GitHub Katkı Grafiğim için Tıklayın (2023)</p>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=150&section=footer&fontSize=30"/>
