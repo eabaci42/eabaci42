@@ -28,16 +28,18 @@
 
 ## <div align="center">💫 Teknoloji Yolculuğum</div>
 
-<img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
-<p align="left"> 
-  <a href="https://github.com/eabaci42?tab=repositories&sort=stargazers">
-    <img alt="toplam yıldız" title="Yıldız Sayısı" src="https://custom-icon-badges.demolab.com/github/stars/eabaci42?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=eabaci42&label=Profil%20Görüntülenme&color=0e75b6&style=for-the-badge" alt="profil görüntülenme" />
-</p>
-
-<br/><br/>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
+      </td>
+      <td width="50%">
+        <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <table align="center">
   <tr>
@@ -111,8 +113,19 @@
 ## <div align="center">📊 Projeler ve Yaklaşımım</div>
 
 <div align="center">
-  <a href="https://github.com/eabaci42/eabaci42">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/eabaci42/eabaci42">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/eabaci42/eabaci42">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=radical" />
+    </a>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/eabaci42?tab=repositories">
+    <img src="https://img.shields.io/badge/Tüm%20Projeler-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tüm Projeler" />
   </a>
 </div>
 
