@@ -142,12 +142,24 @@
 ## <div align="center">📊 Projeler ve Yaklaşımım</div>
 
 <div align="center">
-  <a href="https://github.com/eabaci42/eabaci42">
-    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/eabaci42/Python-Programming">
-    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=radical" />
-  </a>
+  <!-- Dinamik Projeler - Haftada bir güncellenir -->
+  <div>
+    <a href="https://github.com/eabaci42/eabaci42">
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/eabaci42/Python-Programming">
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=radical" />
+    </a>
+  </div>
+  
+  <div style="margin-top: 10px;">
+    <a href="https://github.com/eabaci42/ESP32-Button-Controller-Library">
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=nightowl" />
+    </a>
+    <a href="https://github.com/eabaci42/ESP32-LED-Controller-Library">
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=synthwave" />
+    </a>
+  </div>
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -172,9 +184,9 @@
         </a>
       </td>
       <td>
-        <a href="#">
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Yeni Proje Yakında" width="330" />
-          <p align="center"><b>Yeni Proje Yakında</b></p>
+        <a href="https://github.com/eabaci42/clearmail-engine">
+          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="ClearMail E-posta Yönetimi" width="330" />
+          <p align="center"><b>ClearMail E-posta Yönetimi</b></p>
         </a>
       </td>
     </tr>

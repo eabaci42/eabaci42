@@ -1,0 +1,40 @@
+name: Rastgele Repoları Güncelle
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Her Pazar gece yarısı
+  workflow_dispatch:  # Manuel tetikleme için
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v2
+        
+      - name: Python Kur
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Bağımlılıkları Yükle
+        run: pip install requests
+        
+      - name: Rastgele Repoları Güncelle
+        run: python .github/scripts/update_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Değişiklikleri Commit Et
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Rastgele projeler güncellendi"
+          
+      - name: Değişiklikleri Push Et
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
