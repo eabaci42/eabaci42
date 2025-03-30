@@ -34,9 +34,6 @@
   <a href="https://github.com/eabaci42?tab=repositories&sort=stargazers">
     <img alt="toplam yıldız" title="Yıldız Sayısı" src="https://custom-icon-badges.demolab.com/github/stars/eabaci42?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://github.com/eabaci42?tab=followers">
-    <img alt="takipçiler" title="Beni GitHub'da takip et" src="https://custom-icon-badges.demolab.com/github/followers/eabaci42?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Takipçi&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=eabaci42&label=Profil%20Görüntülenme&color=0e75b6&style=for-the-badge" alt="profil görüntülenme" />
 </p>
 
