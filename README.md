@@ -77,6 +77,21 @@
 </div>
 
 <div align="center">
+  <table style="background-color: #101728; width: 85%; margin: 25px auto; border-collapse: collapse; border-radius: 8px; overflow: hidden; border-left: 5px solid #0891b2;">
+    <tr>
+      <td style="padding: 20px; text-align: left;">
+        <p><i><b>"Teknoloji benim için sadece bir meslek değil; aynı zamanda bir ustalık alanı."</b></i></p>
+        <p>2019'dan bu yana ağ yönetimi, programlama ve algoritmalara duyduğum merakla başlayan yolculuğum, <b>42 İstanbul</b>'daki eğitimimle somut bir uzmanlığa dönüştü. C programlama, mikrodenetleyiciler ve IoT gibi alanlarda derinleşerek, karmaşık teknolojik problemleri fırsata çevirmeyi öğrendim.</p>
+        <p>Bugün <b>DEMSAY ELEKTRONİK A.Ş.</b>'de güçlü sunucu mimarileri kuruyor, kesintisiz IT operasyonlarını yönetiyor ve ileri düzey siber güvenlik standartlarını uyguluyorum. Rolüm yalnızca sistemleri ayakta tutmak değil; onları geleceğe hazırlamak, performanslarını maksimum seviyeye çıkarmak ve kritik bilgi varlıklarını korumak üzerine kurulu.</p>
+        <p>Kariyerim ilerledikçe, odağımı <b>veri bilimi</b> ve <b>makine öğrenimine</b> genişlettim. Amacım, teknolojiyi takip etmekten öte, veriyi anlamlı sonuçlara dönüştürerek fark yaratmak.</p>
+        <p>Teknik alanların dışında ise stratejik düşünme becerilerimi satrançla geliştiriyor, yaratıcılığımı ise mutfakta besliyorum. Çünkü en etkili çözümler çoğu zaman dengeli bir zihinle üretilir.</p>
+        <p><i><b>"Özetle, amacım net: Bilgiyi, yaratıcılığı ve disiplini birleştirerek dayanıklı sistemler kurmak, anlamlı çözümler üretmek ve teknolojinin sınırlarını sürekli ileri taşımak."</b></i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eabaci42&theme=tokyonight" alt="Zaman Çizelgesi" />
 </div>
 
