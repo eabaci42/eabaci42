@@ -24,7 +24,7 @@
   <a href="https://github.com/eabaci42?tab=followers">
     <img src="https://img.shields.io/github/followers/eabaci42?label=Takipçiler&style=for-the-badge&color=0891b2" alt="Takipçiler" />
   </a>
-  <a href="https://github.com/eabaci42">
+  <a href="https://github.com/eabaci42/eabaci42">
     <img src="https://komarev.com/ghpvc/?username=eabaci42&color=0891b2&style=for-the-badge&label=Ziyaretçi" alt="Ziyaretçi Sayısı" />
   </a>
   <a href="https://github.com/eabaci42?tab=repositories&sort=stargazers">
