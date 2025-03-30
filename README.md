@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=440&lines=Bilgisayar+Mühendisi;BT+Yöneticisi;Linux+Tutkunu;Sistem+Mimarı;Veri+Analisti" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&width=450&lines=Bilgisayar+M%C3%BChendisi;BT+Y%C3%B6neticisi;Linux+Tutkunu;Sistem+Mimar%C4%B1;Veri+Analisti" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -20,37 +20,29 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <a href="https://github.com/eabaci42?tab=followers">
-    <img src="https://img.shields.io/github/followers/eabaci42?label=Takipçiler&style=for-the-badge&color=0891b2" alt="Takipçiler" />
+    <img src="https://img.shields.io/github/followers/eabaci42?label=Takip%C3%A7iler&style=for-the-badge&color=0891b2" alt="Takipçiler" />
   </a>
   <a href="https://github.com/eabaci42/eabaci42">
-    <img src="https://komarev.com/ghpvc/?username=eabaci42&color=0891b2&style=for-the-badge&label=Ziyaretçi" alt="Ziyaretçi Sayısı" />
+    <img src="https://komarev.com/ghpvc/?username=eabaci42&color=0891b2&style=for-the-badge&label=Ziyaret%C3%A7i" alt="Ziyaretçi Sayısı" />
   </a>
   <a href="https://github.com/eabaci42?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/eabaci42?label=Yıldızlar&style=for-the-badge&color=0891b2" alt="Yıldızlar" />
+    <img src="https://img.shields.io/github/stars/eabaci42?label=Y%C4%B1ld%C4%B1zlar&style=for-the-badge&color=0891b2" alt="Yıldızlar" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/eabaci42">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub İstatistikleri" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub İstatistikleri" />
   </a>
 </div>
 
 ## <div align="center">💫 Teknoloji Yolculuğum</div>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
-      </td>
-      <td width="50%">
-        <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300" />
 </div>
 
 <table align="center">
@@ -58,21 +50,21 @@
     <td>
       <h3>🛠️ Uzmanlık Alanlarım</h3>
       <ul>
-        <li>🎓 <b>Bilgisayar Mühendisi</b> - Sistemsel düşünceye sahip, çözüm odaklı</li>
-        <li>💼 <b>BT Yöneticisi</b> - Ağ altyapısı, kullanıcı sistemleri ve güvenlik sorumlusu</li>
-        <li>🐧 <b>Linux Tutkunu</b> - Terminal ve sistem kurulumlarıyla keyifli vakit geçiren</li>
-        <li>💻 <b>Python Geliştirici</b> - Otomasyon, veri işleme ve sistem araçları tasarımcısı</li>
-        <li>🧠 <b>Veri Analitiği Uzmanı</b> - SQL ve Metabase ile iş zekâsı sistemleri kurucu</li>
+        <li>🎓 <b>Bilgisayar Mühendisi</b> – Sistemsel düşünce, çözüm odaklı</li>
+        <li>💼 <b>BT Yöneticisi</b> – Ağ altyapısı, kullanıcı sistemleri ve güvenlik</li>
+        <li>🐧 <b>Linux Tutkunu</b> – Terminal, dağıtım kurulumları</li>
+        <li>💻 <b>Python Geliştirici</b> – Otomasyon, veri işleme, araç geliştirme</li>
+        <li>🧠 <b>Veri Analisti</b> – SQL ve Metabase ile iş zekâsı sistemleri</li>
       </ul>
     </td>
     <td>
       <h3>🧩 Temel İlkelerim</h3>
       <ul>
-        <li>🔐 <b>Güvenlik Odaklı</b> - Ağ güvenliği ve sistem yönetiminde uzman</li>
-        <li>🛠️ <b>Verimlilik Savunucusu</b> - Sade ve yalın sistemleri tercih eden</li>
-        <li>✍️ <b>Dokümantasyon Meraklısı</b> - "Belgelenmemiş sistem kaybolmuş sistemdir"</li>
-        <li>👨‍🏫 <b>Bilgi Paylaşımcısı</b> - Stajyer eğitimi ve mentorlukta gönüllü</li>
-        <li>🎯 <b>Yalın Tasarımcı</b> - "Yalın ama güçlü sistemler" kurmayı misyon edinen</li>
+        <li>🔐 <b>Güvenlik Odaklı</b> – Ağ güvenliği ve sistem yönetimi</li>
+        <li>🛠️ <b>Verimlilik Savunucusu</b> – Sade, yalın ve sürdürülebilir</li>
+        <li>✍️ <b>Dokümantasyon Meraklısı</b> – "Belgelenmemiş sistem kaybolur"</li>
+        <li>👨‍🏫 <b>Bilgi Paylaşımı</b> – Stajyer eğitimi ve mentorluk</li>
+        <li>🎯 <b>Yalın Tasarımcı</b> – "Yalın ama güçlü sistem" misyonu</li>
       </ul>
     </td>
   </tr>
@@ -81,7 +73,7 @@
 ## <div align="center">⏳ Kariyer Yolculuğum</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Kariyer Yolculuğum" width="90%" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Kariyer Yolculuğum" width="70%" />
 </div>
 
 <div align="center">
@@ -145,7 +137,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/eabaci42?tab=repositories">
-    <img src="https://img.shields.io/badge/Tüm%20Projeler-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tüm Projeler" />
+    <img src="https://img.shields.io/badge/T%C3%BCm%20Projeler-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tüm Projeler" />
   </a>
 </div>
 
@@ -166,8 +158,8 @@
       </td>
       <td>
         <a href="#">
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Yeni Proje" width="280" />
-          <p align="center">Yeni Proje Yakında</p>
+          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Yeni Proje Yakında" width="280" />
+          <p align="center"><b>Yeni Proje Yakında</b></p>
         </a>
       </td>
     </tr>
@@ -179,17 +171,17 @@
 ## <div align="center">📜 Kişisel Manifestom</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px" alt="Manifesto" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250px" alt="Manifesto" />
 </div>
 
-<blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2;">
+<blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2; margin-top: 20px;">
   <p>💡 <b>"Teknoloji, insanı özgürleştiren bir araçtır, ama yalnızca doğru kullanıldığında."</b></p>
-  <p>Teknoloji dünyasında yolumu çizerken, her zaman şunları aklımda tutarım:</p>
+  <p><i>Teknoloji dünyasında yolumu çizerken, her zaman şunları aklımda tutarım:</i></p>
   <ol>
-    <li>En karmaşık problemler bile, doğru yaklaşımla basitleştirilebilir.</li>
-    <li>Mükemmel sistemler değil, mükemmel şekilde bakılabilir sistemler kurmalıyız.</li>
-    <li>Gerçek güvenlik, paranoya ile değil, sağlam mimari ile inşa edilir.</li>
-    <li>Asla "yeterince iyi" deme; sürekli gelişim, başarının anahtarıdır.</li>
+    <li>En karmaşık problemler bile doğru yaklaşımla basitleştirilebilir.</li>
+    <li>Mükemmel sistemler değil, mükemmel şekilde bakılabilir sistemler kurmak gerekir.</li>
+    <li>Gerçek güvenlik, paranoya ile değil sağlam mimari ile inşa edilir.</li>
+    <li>Asla "yeterince iyi" deme; sürekli gelişim başarının anahtarıdır.</li>
     <li>Anlaşılır kod, anlaşılmaz dokümanlardan daha değerlidir.</li>
   </ol>
 </blockquote>
@@ -200,13 +192,13 @@
       <h3>📝 Sistem Tasarım Felsefem</h3>
       <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="100%" />
       <p><b>"Karmaşıklık değil, sadeliğe giden yol daha değerlidir."</b></p>
-      <p>Sistem tasarımlarımda her zaman yalın, bakımı kolay ve güçlü çözümler üretmeye odaklanırım. Gereksiz karmaşıklığı elimine ederek, sürdürülebilir altyapılar kurarım.</p>
+      <p>Yalın, bakımı kolay ve güçlü çözümler üreterek; gereksiz karmaşıklığı azaltır, sürdürülebilir altyapılar kurarım.</p>
     </td>
     <td width="50%" align="center">
       <h3>🔄 DevOps Yaklaşımım</h3>
       <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
       <p><b>"Sistemler değil, ekosistemler tasarlarım."</b></p>
-      <p>Tek parçaları değil, bütünü optimize ederim. Silo yaklaşımlarından kaçınarak, entegre ve otomatikleştirilmiş süreçler geliştiririm. Sürekli iyileştirme ve ölçüm, çalışmalarımın temelidir.</p>
+      <p>Sürekli entegrasyon, otomasyon ve ölçüm odaklı çalışırım. Birlikte çalışan parçaların toplam verimliliği benim önceliğimdir.</p>
     </td>
   </tr>
 </table>
@@ -224,5 +216,5 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0891b2&center=true&vCenter=true&width=500&lines=Her+soruna+yalın+bir+çözüm+vardır...;Her+sistem+bir+ekosistemin+parçasıdır...;Her+başarı+disiplinli+çalışmanın+ürünüdür...;Kod+yazmıyorum,+çözüm+üretiyorum." alt="Slogan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891b2&center=true&vCenter=true&width=500&lines=Her+soruna+yal%C4%B1n+bir+%C3%A7%C3%B6z%C3%BCm+vard%C4%B1r...;Her+sistem+bir+ekosistemin+par%C3%A7as%C4%B1d%C4%B1r...;Her+ba%C5%9Far%C4%B1+disiplinli+%C3%A7al%C4%B1%C5%9Fman%C4%B1n+%C3%BCr%C3%BCn%C3%BCd%C3%BCr...;Kod+yazm%C4%B1yorum,+%C3%A7%C3%B6z%C3%BCm+%C3%BCretiyorum." alt="Slogan" />
 </div>
