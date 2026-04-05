@@ -1,247 +1,170 @@
-# <div align="center">👨‍💻 Ertuğrul Abacı</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Ertuğrul%20Abacı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Ertuğrul Abacı" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ertuğrul%20Abacı&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20IT%20Manager%20%7C%20System%20Architect&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&width=450&lines=Bilgisayar+M%C3%BChendisi;BT+Y%C3%B6neticisi;Linux+Tutkunu;Sistem+Mimar%C4%B1;Veri+Analisti" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/eabaci42"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ertugrul@atikrost.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/eabaci42"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <a href="mailto:ertugrul@atikrost.com">
-    <img src="https://img.shields.io/badge/Email-ertugrul@atikrost.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eabaci42">
-    <img src="https://img.shields.io/badge/LinkedIn-eabaci42-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/eabaci42">
-    <img src="https://img.shields.io/badge/GitHub-eabaci42-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/eabaci42?tab=followers">
-    <img src="https://img.shields.io/github/followers/eabaci42?label=Takip%C3%A7iler&style=for-the-badge&color=0891b2" alt="Takipçiler" />
-  </a>
-  <a href="https://github.com/eabaci42/eabaci42">
-    <img src="https://komarev.com/ghpvc/?username=eabaci42&color=0891b2&style=for-the-badge&label=Ziyaret%C3%A7i" alt="Ziyaretçi Sayısı" />
-  </a>
-  <a href="https://github.com/eabaci42?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/eabaci42?label=Y%C4%B1ld%C4%B1zlar&style=for-the-badge&color=0891b2" alt="Yıldızlar" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/eabaci42">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub İstatistikleri" />
-  </a>
-</div>
-
-## <div align="center">💫 Teknoloji Yolculuğum</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="400" />
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <h3>🛠️ Uzmanlık Alanlarım</h3>
-      <ul>
-        <li>🎓 <b>Bilgisayar Mühendisi</b> – Sistemsel düşünce, çözüm odaklı</li>
-        <li>💼 <b>BT Yöneticisi</b> – Ağ altyapısı, kullanıcı sistemleri ve güvenlik</li>
-        <li>🐧 <b>Linux Tutkunu</b> – Terminal, dağıtım kurulumları</li>
-        <li>💻 <b>Python Geliştirici</b> – Otomasyon, veri işleme, araç geliştirme</li>
-        <li>🧠 <b>Veri Analisti</b> – SQL ve Metabase ile iş zekâsı sistemleri</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🧩 Temel İlkelerim</h3>
-      <ul>
-        <li>🔐 <b>Güvenlik Odaklı</b> – Ağ güvenliği ve sistem yönetimi</li>
-        <li>🛠️ <b>Verimlilik Savunucusu</b> – Sade, yalın ve sürdürülebilir</li>
-        <li>✍️ <b>Dokümantasyon Meraklısı</b> – "Belgelenmemiş sistem kaybolur"</li>
-        <li>👨‍🏫 <b>Bilgi Paylaşımı</b> – Stajyer eğitimi ve mentorluk</li>
-        <li>🎯 <b>Yalın Tasarımcı</b> – "Yalın ama güçlü sistem" misyonu</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## <div align="center">⏳ Kariyer Yolculuğum</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Kariyer Yolculuğum" width="85%" />
-</div>
-
-<div align="center">
-  <table style="background-color: #101728; width: 85%; margin: 25px auto; border-collapse: collapse; border-radius: 8px; overflow: hidden; border-left: 5px solid #0891b2;">
-    <tr>
-      <td style="padding: 20px; text-align: left;">
-        <p><i><b>"Teknoloji benim için sadece bir meslek değil; aynı zamanda bir ustalık alanı."</b></i></p>
-        <p>2019'dan bu yana ağ yönetimi, programlama ve algoritmalara duyduğum merakla başlayan yolculuğum, <b>42 İstanbul</b>'daki eğitimimle somut bir uzmanlığa dönüştü. C programlama, mikrodenetleyiciler ve IoT gibi alanlarda derinleşerek, karmaşık teknolojik problemleri fırsata çevirmeyi öğrendim.</p>
-        <p>Bugün <b>DEMSAY ELEKTRONİK A.Ş.</b>'de güçlü sunucu mimarileri kuruyor, kesintisiz IT operasyonlarını yönetiyor ve ileri düzey siber güvenlik standartlarını uyguluyorum. Rolüm yalnızca sistemleri ayakta tutmak değil; onları geleceğe hazırlamak, performanslarını maksimum seviyeye çıkarmak ve kritik bilgi varlıklarını korumak üzerine kurulu.</p>
-        <p>Kariyerim ilerledikçe, odağımı <b>veri bilimi</b> ve <b>makine öğrenimine</b> genişlettim. Amacım, teknolojiyi takip etmekten öte, veriyi anlamlı sonuçlara dönüştürerek fark yaratmak.</p>
-        <p>Teknik alanların dışında ise stratejik düşünme becerilerimi satrançla geliştiriyor, yaratıcılığımı ise mutfakta besliyorum. Çünkü en etkili çözümler çoğu zaman dengeli bir zihinle üretilir.</p>
-        <p><i><b>"Özetle, amacım net: Bilgiyi, yaratıcılığı ve disiplini birleştirerek dayanıklı sistemler kurmak, anlamlı çözümler üretmek ve teknolojinin sınırlarını sürekli ileri taşımak."</b></i></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eabaci42&theme=tokyonight" alt="Zaman Çizelgesi" />
-</div>
-
-## <div align="center">🔥 İstatistikler ve Katkılar</div>
-
-<div align="center">
-  <a href="https://github.com/eabaci42">
-    <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true" alt="streak stats"/>
-  </a>
-</div>
 
 <p align="center">
-  <a href="https://github.com/eabaci42">
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=nord&margin-w=15&margin-h=15&column=7&no-frame=true" alt="trophy" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=eabaci42&color=0891b2&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/eabaci42?tab=followers"><img src="https://img.shields.io/github/followers/eabaci42?style=flat-square&color=0891b2&label=Followers" /></a>
+  <a href="https://github.com/eabaci42?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/eabaci42?style=flat-square&color=0891b2&label=Stars" /></a>
 </p>
-
-<div align="center">
-  <a href="https://github.com/eabaci42">
-    <img width="70%" alt="Kullanılan Diller" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="language graph"/>
-  </a>
-</div>
 
 <p align="center">
-  <a href="https://github.com/eabaci42">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=react-dark&hide_border=true" alt="katkı grafiği"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+resilient+systems+%F0%9F%94%A7;Turning+data+into+decisions+%F0%9F%93%8A;Securing+digital+infrastructure+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
-## <div align="center">⚡ Teknoloji & Araçlar</div>
+---
+
+## About Me
+
+```yaml
+name: Ertuğrul Abacı
+role: IT Manager @ DEMSAY ELEKTRONİK A.Ş.
+education: Computer Engineering | 42 Istanbul
+focus:
+  - Network Infrastructure & Security
+  - Server Architecture & DevOps
+  - Python Automation & Tooling
+  - Data Analytics with SQL & Metabase
+  - IoT & Embedded Systems (ESP32, C)
+mindset: "Build lean, maintain well, secure everything."
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
-## <div align="center">📊 Projeler ve Yaklaşımım</div>
-
-<div align="center">
-  <!-- Dinamik Projeler - Haftada bir güncellenir -->
-  <div>
-    <a href="https://github.com/eabaci42/eabaci42">
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=eabaci42&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/eabaci42/Python-Programming">
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=radical" />
-    </a>
-  </div>
-  
-  <div style="margin-top: 10px;">
-    <a href="https://github.com/eabaci42/ESP32-Button-Controller-Library">
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=nightowl" />
-    </a>
-    <a href="https://github.com/eabaci42/ESP32-LED-Controller-Library">
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=synthwave" />
-    </a>
-  </div>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/eabaci42?tab=repositories">
-    <img src="https://img.shields.io/badge/T%C3%BCm%20Projeler-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tüm Projeler" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=dark&perline=7" alt="Tech Stack" />
+  </picture>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/eabaci42/eabaci42">
-          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif" alt="GitHub Profil Projesi" width="330" />
-          <p align="center">GitHub Profil Projesi</p>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/eabaci42/Python-Programming">
-          <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Python Programlama" width="330" />
-          <p align="center">Python Programlama</p>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/eabaci42/clearmail-engine">
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="ClearMail E-posta Yönetimi" width="330" />
-          <p align="center"><b>ClearMail E-posta Yönetimi</b></p>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <br/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=00000000" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=default&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=default&hide_border=true" />
+    <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
 
-## <div align="center">📜 Kişisel Manifestom</div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px" alt="Manifesto" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=minimal&hide_border=true" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph" />
+  </picture>
 </div>
 
-<blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2; margin-top: 20px;">
-  <p>💡 <b>"Teknoloji, insanı özgürleştiren bir araçtır, ama yalnızca doğru kullanıldığında."</b></p>
-  <p><i>Teknoloji dünyasında yolumu çizerken, her zaman şunları aklımda tutarım:</i></p>
-  <ol>
-    <li>En karmaşık problemler bile doğru yaklaşımla basitleştirilebilir.</li>
-    <li>Mükemmel sistemler değil, mükemmel şekilde bakılabilir sistemler kurmak gerekir.</li>
-    <li>Gerçek güvenlik, paranoya ile değil sağlam mimari ile inşa edilir.</li>
-    <li>Asla "yeterince iyi" deme; sürekli gelişim başarının anahtarıdır.</li>
-    <li>Anlaşılır kod, anlaşılmaz dokümanlardan daha değerlidir.</li>
-  </ol>
-</blockquote>
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>📝 Sistem Tasarım Felsefem</h3>
-      <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="100%" />
-      <p><b>"Karmaşıklık değil, sadeliğe giden yol daha değerlidir."</b></p>
-      <p>Yalın, bakımı kolay ve güçlü çözümler üreterek; gereksiz karmaşıklığı azaltır, sürdürülebilir altyapılar kurarım.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🔄 DevOps Yaklaşımım</h3>
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
-      <p><b>"Sistemler değil, ekosistemler tasarlarım."</b></p>
-      <p>Sürekli entegrasyon, otomasyon ve ölçüm odaklı çalışırım. Birlikte çalışan parçaların toplam verimliliği benim önceliğimdir.</p>
-    </td>
-  </tr>
-</table>
+<br/>
 
 <div align="center">
-  <a href="https://skyline.github.com/eabaci42/2023" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFkMzllMDFkZjA4M2QyZTkzMzY5MDdhNGI4MzMyODM0YzczNGNiMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GitHub Skyline" width="450"/>
-    <br>
-    <p>👆 3D GitHub Katkı Grafiğim için Tıklayın (2023)</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=flat&no-frame=true&column=7&margin-w=10" />
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  </picture>
+</div>
+
+---
+
+## Snake Eating My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eabaci42/eabaci42/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eabaci42/eabaci42/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/eabaci42/eabaci42/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/eabaci42/clearmail-engine">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=default&hide_border=true" />
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    </picture>
+  </a>
+  <a href="https://github.com/eabaci42/Python-Programming">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=default&hide_border=true" />
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    </picture>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=150&section=footer&fontSize=30"/>
+  <a href="https://github.com/eabaci42/ESP32-Button-Controller-Library">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=default&hide_border=true" />
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    </picture>
+  </a>
+  <a href="https://github.com/eabaci42/ESP32-LED-Controller-Library">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=default&hide_border=true" />
+      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    </picture>
+  </a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/eabaci42?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-%E2%86%92-0891b2?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891b2&center=true&vCenter=true&width=500&lines=Her+soruna+yal%C4%B1n+bir+%C3%A7%C3%B6z%C3%BCm+vard%C4%B1r...;Her+sistem+bir+ekosistemin+par%C3%A7as%C4%B1d%C4%B1r...;Her+ba%C5%9Far%C4%B1+disiplinli+%C3%A7al%C4%B1%C5%9Fman%C4%B1n+%C3%BCr%C3%BCn%C3%BCd%C3%BCr...;Kod+yazm%C4%B1yorum,+%C3%A7%C3%B6z%C3%BCm+%C3%BCretiyorum." alt="Slogan" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=JetBrains+Mono" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
