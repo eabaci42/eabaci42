@@ -40,11 +40,7 @@ mindset: "Build lean, maintain well, secure everything."
 ## Tech Stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=light&perline=7" />
-    <img src="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=dark&perline=7" alt="Tech Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github,azure,aws,mysql,postgres,raspberrypi,vscode&theme=dark&perline=7" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -61,44 +57,24 @@ mindset: "Build lean, maintain well, secure everything."
 ## GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=00000000" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true&background=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=default&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eabaci42&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eabaci42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=eabaci42&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=default&hide_border=true" />
-    <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  </picture>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eabaci42&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=minimal&hide_border=true" />
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph" />
-  </picture>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eabaci42&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=flat&no-frame=true&column=7&margin-w=10" />
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
-  </picture>
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 ---
@@ -119,35 +95,19 @@ mindset: "Build lean, maintain well, secure everything."
 
 <div align="center">
   <a href="https://github.com/eabaci42/clearmail-engine">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=default&hide_border=true" />
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </picture>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eabaci42&repo=clearmail-engine&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/eabaci42/Python-Programming">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=default&hide_border=true" />
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </picture>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eabaci42&repo=Python-Programming&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/eabaci42/ESP32-Button-Controller-Library">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=default&hide_border=true" />
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </picture>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eabaci42&repo=ESP32-Button-Controller-Library&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/eabaci42/ESP32-LED-Controller-Library">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=default&hide_border=true" />
-      <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </picture>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eabaci42&repo=ESP32-LED-Controller-Library&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -160,7 +120,7 @@ mindset: "Build lean, maintain well, secure everything."
 ---
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=JetBrains+Mono" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
