@@ -15,47 +15,35 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=500&lines=Building+resilient+systems+%F0%9F%94%A7;Turning+data+into+decisions+%F0%9F%93%8A;Securing+digital+infrastructure+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=435&lines=Building+resilient+systems;Turning+data+into+decisions;Securing+digital+infrastructure" alt="Typing SVG" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> About Me</h2>
 
 <table>
-  <tr>
-    <td width="55%">
-
-**IT Manager** at **DEMSAY ELEKTRONİK A.Ş.** with a background in **Computer Engineering** from **42 Istanbul**.
-
-I build and maintain enterprise-grade server architectures, manage seamless IT operations, and implement advanced cybersecurity standards. My work isn't just about keeping systems running — it's about future-proofing them.
-
-Currently expanding into **Data Science** & **Machine Learning** to transform raw data into actionable insights.
-
-> *"Build lean, maintain well, secure everything."*
-
-    </td>
-    <td width="45%" align="center">
-
-🎓 **Computer Engineer** — Systems thinking, solution-driven
-
-💼 **IT Manager** — Network infra, security & operations
-
-🐧 **Linux Enthusiast** — Terminal-first philosophy
-
-🐍 **Python Developer** — Automation & tooling
-
-🧠 **Data Analyst** — SQL & Metabase BI systems
-
-🔌 **IoT Builder** — ESP32, C, embedded systems
-
-    </td>
-  </tr>
+<tr>
+<td width="55%">
+<p><b>IT Manager</b> at <b>DEMSAY ELEKTRONİK A.Ş.</b> with a background in <b>Computer Engineering</b> from <b>42 Istanbul</b>.</p>
+<p>I build and maintain enterprise-grade server architectures, manage seamless IT operations, and implement advanced cybersecurity standards. My work isn't just about keeping systems running — it's about future-proofing them.</p>
+<p>Currently expanding into <b>Data Science</b> &amp; <b>Machine Learning</b> to transform raw data into actionable insights.</p>
+<blockquote><i>"Build lean, maintain well, secure everything."</i></blockquote>
+</td>
+<td width="45%">
+<p>🎓 <b>Computer Engineer</b> — Systems thinking</p>
+<p>💼 <b>IT Manager</b> — Network infra &amp; security</p>
+<p>🐧 <b>Linux Enthusiast</b> — Terminal-first philosophy</p>
+<p>🐍 <b>Python Developer</b> — Automation &amp; tooling</p>
+<p>🧠 <b>Data Analyst</b> — SQL &amp; Metabase BI</p>
+<p>🔌 <b>IoT Builder</b> — ESP32, C, embedded</p>
+</td>
+</tr>
 </table>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,c,linux,docker,nginx,git,github&theme=dark&perline=8" alt="Tech Stack" />
@@ -71,7 +59,7 @@ Currently expanding into **Data Science** & **Machine Learning** to transform ra
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> GitHub Analytics</h2>
 
 <div align="center">
   <a href="https://github.com/eabaci42">
@@ -99,6 +87,10 @@ Currently expanding into **Data Science** & **Machine Learning** to transform ra
 <p align="center">
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=eabaci42&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </p>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eabaci42&theme=tokyonight" alt="Profile Details" />
+</div>
 
 ---
 
